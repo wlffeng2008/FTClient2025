@@ -1,0 +1,1 @@
+ffmpeg -i 1.h264 -i 1.aac  1.mp4

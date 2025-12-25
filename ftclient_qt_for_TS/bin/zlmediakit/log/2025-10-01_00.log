@@ -1,0 +1,30 @@
+2025-10-01 00:03:11.092 W [MediaServer.exe] [3592-event poller 11] SSLBox.cpp:131 findCertificate | Can not find any certificate of host: github.com, select default certificate of: 
+2025-10-01 00:03:11.092 W [MediaServer.exe] [3592-event poller 11] SSLBox.cpp:302 getSSLCtx_l | Server with ssl must have certification and key
+2025-10-01 00:03:11.094 W [MediaServer.exe] [3592-event poller 5] SSLBox.cpp:131 findCertificate | Can not find any certificate of host: github.com, select default certificate of: 
+2025-10-01 00:03:11.094 W [MediaServer.exe] [3592-event poller 5] SSLBox.cpp:302 getSSLCtx_l | Server with ssl must have certification and key
+2025-10-01 00:03:12.146 W [MediaServer.exe] [3592-event poller 5] SSLBox.cpp:131 findCertificate | Can not find any certificate of host: github.com, select default certificate of: 
+2025-10-01 00:03:12.146 W [MediaServer.exe] [3592-event poller 5] SSLBox.cpp:302 getSSLCtx_l | Server with ssl must have certification and key
+2025-10-01 00:03:12.148 W [MediaServer.exe] [3592-event poller 5] SSLBox.cpp:131 findCertificate | Can not find any certificate of host: github.com, select default certificate of: 
+2025-10-01 00:03:12.148 W [MediaServer.exe] [3592-event poller 5] SSLBox.cpp:302 getSSLCtx_l | Server with ssl must have certification and key
+2025-10-01 00:03:12.185 W [MediaServer.exe] [3592-event poller 11] SSLBox.cpp:131 findCertificate | Can not find any certificate of host: github.com, select default certificate of: 
+2025-10-01 00:03:12.185 W [MediaServer.exe] [3592-event poller 11] SSLBox.cpp:302 getSSLCtx_l | Server with ssl must have certification and key
+2025-10-01 00:03:12.186 W [MediaServer.exe] [3592-event poller 6] SSLBox.cpp:131 findCertificate | Can not find any certificate of host: github.com, select default certificate of: 
+2025-10-01 00:03:12.186 W [MediaServer.exe] [3592-event poller 6] SSLBox.cpp:302 getSSLCtx_l | Server with ssl must have certification and key
+2025-10-01 00:03:12.188 W [MediaServer.exe] [3592-event poller 4] SSLBox.cpp:131 findCertificate | Can not find any certificate of host: github.com, select default certificate of: 
+2025-10-01 00:03:12.188 W [MediaServer.exe] [3592-event poller 4] SSLBox.cpp:302 getSSLCtx_l | Server with ssl must have certification and key
+2025-10-01 00:03:12.188 W [MediaServer.exe] [3592-event poller 4] SSLBox.cpp:131 findCertificate | Can not find any certificate of host: github.com, select default certificate of: 
+2025-10-01 00:03:12.188 W [MediaServer.exe] [3592-event poller 4] SSLBox.cpp:302 getSSLCtx_l | Server with ssl must have certification and key
+2025-10-01 02:11:06.863 W [MediaServer.exe] [3592-stamp thread] util.cpp:413 operator () | Stamp expired is abnormal: -1302156
+2025-10-01 08:54:55.616 W [MediaServer.exe] [3592-stamp thread] util.cpp:413 operator () | Stamp expired is abnormal: 1090829
+2025-10-01 09:18:00.204 W [MediaServer.exe] [3592-event poller 4] SSLBox.cpp:131 findCertificate | Can not find any certificate of host: github.com, select default certificate of: 
+2025-10-01 09:18:00.204 W [MediaServer.exe] [3592-event poller 4] SSLBox.cpp:302 getSSLCtx_l | Server with ssl must have certification and key
+2025-10-01 09:18:00.206 W [MediaServer.exe] [3592-event poller 4] SSLBox.cpp:131 findCertificate | Can not find any certificate of host: github.com, select default certificate of: 
+2025-10-01 09:18:00.206 W [MediaServer.exe] [3592-event poller 4] SSLBox.cpp:302 getSSLCtx_l | Server with ssl must have certification and key
+2025-10-01 09:18:00.261 W [MediaServer.exe] [3592-event poller 3] SSLBox.cpp:131 findCertificate | Can not find any certificate of host: github.com, select default certificate of: 
+2025-10-01 09:18:00.261 W [MediaServer.exe] [3592-event poller 3] SSLBox.cpp:302 getSSLCtx_l | Server with ssl must have certification and key
+2025-10-01 09:18:00.261 W [MediaServer.exe] [3592-event poller 3] SSLBox.cpp:131 findCertificate | Can not find any certificate of host: github.com, select default certificate of: 
+2025-10-01 09:18:00.261 W [MediaServer.exe] [3592-event poller 3] SSLBox.cpp:302 getSSLCtx_l | Server with ssl must have certification and key
+2025-10-01 09:18:00.263 W [MediaServer.exe] [3592-event poller 3] SSLBox.cpp:131 findCertificate | Can not find any certificate of host: github.com, select default certificate of: 
+2025-10-01 09:18:00.263 W [MediaServer.exe] [3592-event poller 3] SSLBox.cpp:302 getSSLCtx_l | Server with ssl must have certification and key
+2025-10-01 09:18:00.265 W [MediaServer.exe] [3592-event poller 1] SSLBox.cpp:131 findCertificate | Can not find any certificate of host: github.com, select default certificate of: 
+2025-10-01 09:18:00.265 W [MediaServer.exe] [3592-event poller 1] SSLBox.cpp:302 getSSLCtx_l | Server with ssl must have certification and key

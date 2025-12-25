@@ -1,0 +1,75 @@
+2025-09-30 17:17:04.646 I [MediaServer.exe] [31248-12580] main.cpp:271 start_main | ZLMediaKit(git hash:Git_Unkown_commit/Git_Unkown_time,branch:Git_Unkown_branch,build time:2025-03-19T17:04:50)
+2025-09-30 17:17:04.937 W [MediaServer.exe] [31248-12580] SSLUtil.cpp:104 loadPublicKey | BIO_new_file failed: error:80000002:system library::No such file or directory
+2025-09-30 17:17:04.937 W [MediaServer.exe] [31248-12580] SSLUtil.cpp:132 loadPrivateKey | BIO_new_file failed: error:10000080:BIO routines::no such file
+2025-09-30 17:17:04.938 W [MediaServer.exe] [31248-12580] SSLUtil.cpp:213 makeSSLContext | SSL_CTX_check_private_key failed: error:80000002:system library::No such file or directory
+2025-09-30 17:17:04.938 D [MediaServer.exe] [31248-stamp thread] util.cpp:391 operator () | Stamp thread started
+2025-09-30 17:17:04.951 I [MediaServer.exe] [31248-12580] EventPoller.cpp:616 EventPollerPool | EventPoller created size: 12
+2025-09-30 17:17:04.951 I [MediaServer.exe] [31248-12580] main.cpp:396 start_main | 已启动http api 接口
+2025-09-30 17:17:04.951 I [MediaServer.exe] [31248-12580] main.cpp:398 start_main | 已启动http hook 接口
+2025-09-30 17:17:04.953 I [MediaServer.exe] [31248-12580] TcpServer.cpp:242 start_l | TCP server listening on [::]: 554
+2025-09-30 17:17:04.954 I [MediaServer.exe] [31248-12580] TcpServer.cpp:242 start_l | TCP server listening on [::]: 332
+2025-09-30 17:17:04.956 I [MediaServer.exe] [31248-12580] TcpServer.cpp:242 start_l | TCP server listening on [::]: 1935
+2025-09-30 17:17:04.957 I [MediaServer.exe] [31248-12580] TcpServer.cpp:242 start_l | TCP server listening on [::]: 19350
+2025-09-30 17:17:04.959 I [MediaServer.exe] [31248-12580] TcpServer.cpp:242 start_l | TCP server listening on [::]: 80
+2025-09-30 17:17:04.961 I [MediaServer.exe] [31248-12580] TcpServer.cpp:242 start_l | TCP server listening on [::]: 443
+2025-09-30 17:17:04.963 I [MediaServer.exe] [31248-12580] TcpServer.cpp:242 start_l | TCP server listening on [::]: 9000
+2025-09-30 17:17:04.965 I [MediaServer.exe] [31248-12580] UdpServer.cpp:130 start_l | UDP server bind to [::]: 10000
+2025-09-30 17:17:04.967 I [MediaServer.exe] [31248-12580] TcpServer.cpp:242 start_l | TCP server listening on [::]: 10000
+2025-09-30 17:17:04.968 I [MediaServer.exe] [31248-12580] UdpServer.cpp:130 start_l | UDP server bind to [::]: 8000
+2025-09-30 17:17:04.970 I [MediaServer.exe] [31248-12580] TcpServer.cpp:242 start_l | TCP server listening on [::]: 8000
+2025-09-30 17:17:04.972 I [MediaServer.exe] [31248-12580] UdpServer.cpp:130 start_l | UDP server bind to [::]: 9000
+2025-09-30 17:32:29.198 W [MediaServer.exe] [31248-event poller 10] SSLBox.cpp:131 findCertificate | Can not find any certificate of host: github.com, select default certificate of: 
+2025-09-30 17:32:29.198 W [MediaServer.exe] [31248-event poller 10] SSLBox.cpp:302 getSSLCtx_l | Server with ssl must have certification and key
+2025-09-30 17:32:29.198 W [MediaServer.exe] [31248-event poller 11] SSLBox.cpp:131 findCertificate | Can not find any certificate of host: github.com, select default certificate of: 
+2025-09-30 17:32:29.198 W [MediaServer.exe] [31248-event poller 11] SSLBox.cpp:302 getSSLCtx_l | Server with ssl must have certification and key
+2025-09-30 17:32:29.200 W [MediaServer.exe] [31248-event poller 10] SSLBox.cpp:131 findCertificate | Can not find any certificate of host: github.com, select default certificate of: 
+2025-09-30 17:32:29.200 W [MediaServer.exe] [31248-event poller 10] SSLBox.cpp:302 getSSLCtx_l | Server with ssl must have certification and key
+2025-09-30 17:32:29.200 W [MediaServer.exe] [31248-event poller 10] SSLBox.cpp:131 findCertificate | Can not find any certificate of host: github.com, select default certificate of: 
+2025-09-30 17:32:29.200 W [MediaServer.exe] [31248-event poller 10] SSLBox.cpp:302 getSSLCtx_l | Server with ssl must have certification and key
+2025-09-30 17:32:34.490 W [MediaServer.exe] [31248-event poller 6] SSLBox.cpp:131 findCertificate | Can not find any certificate of host: github.com, select default certificate of: 
+2025-09-30 17:32:34.490 W [MediaServer.exe] [31248-event poller 6] SSLBox.cpp:302 getSSLCtx_l | Server with ssl must have certification and key
+2025-09-30 17:32:34.491 W [MediaServer.exe] [31248-event poller 6] SSLBox.cpp:131 findCertificate | Can not find any certificate of host: github.com, select default certificate of: 
+2025-09-30 17:32:34.492 W [MediaServer.exe] [31248-event poller 6] SSLBox.cpp:302 getSSLCtx_l | Server with ssl must have certification and key
+2025-09-30 17:32:34.527 W [MediaServer.exe] [31248-event poller 0] SSLBox.cpp:131 findCertificate | Can not find any certificate of host: github.com, select default certificate of: 
+2025-09-30 17:32:34.527 W [MediaServer.exe] [31248-event poller 0] SSLBox.cpp:302 getSSLCtx_l | Server with ssl must have certification and key
+2025-09-30 17:32:34.528 W [MediaServer.exe] [31248-event poller 0] SSLBox.cpp:131 findCertificate | Can not find any certificate of host: github.com, select default certificate of: 
+2025-09-30 17:32:34.528 W [MediaServer.exe] [31248-event poller 0] SSLBox.cpp:302 getSSLCtx_l | Server with ssl must have certification and key
+2025-09-30 17:32:34.529 W [MediaServer.exe] [31248-event poller 0] SSLBox.cpp:131 findCertificate | Can not find any certificate of host: github.com, select default certificate of: 
+2025-09-30 17:32:34.529 W [MediaServer.exe] [31248-event poller 0] SSLBox.cpp:302 getSSLCtx_l | Server with ssl must have certification and key
+2025-09-30 17:32:34.530 W [MediaServer.exe] [31248-event poller 0] SSLBox.cpp:131 findCertificate | Can not find any certificate of host: github.com, select default certificate of: 
+2025-09-30 17:32:34.530 W [MediaServer.exe] [31248-event poller 0] SSLBox.cpp:302 getSSLCtx_l | Server with ssl must have certification and key
+2025-09-30 17:33:58.675 W [MediaServer.exe] [31248-event poller 2] SSLBox.cpp:131 findCertificate | Can not find any certificate of host: github.com, select default certificate of: 
+2025-09-30 17:33:58.675 W [MediaServer.exe] [31248-event poller 2] SSLBox.cpp:302 getSSLCtx_l | Server with ssl must have certification and key
+2025-09-30 17:43:44.193 W [MediaServer.exe] [31248-event poller 2] SSLBox.cpp:131 findCertificate | Can not find any certificate of host: github.com, select default certificate of: 
+2025-09-30 17:43:44.193 W [MediaServer.exe] [31248-event poller 2] SSLBox.cpp:302 getSSLCtx_l | Server with ssl must have certification and key
+2025-09-30 17:44:24.233 W [MediaServer.exe] [31248-event poller 2] SSLBox.cpp:131 findCertificate | Can not find any certificate of host: github.com, select default certificate of: 
+2025-09-30 17:44:24.233 W [MediaServer.exe] [31248-event poller 2] SSLBox.cpp:302 getSSLCtx_l | Server with ssl must have certification and key
+2025-09-30 17:44:24.234 W [MediaServer.exe] [31248-event poller 1] SSLBox.cpp:131 findCertificate | Can not find any certificate of host: github.com, select default certificate of: 
+2025-09-30 17:44:24.234 W [MediaServer.exe] [31248-event poller 1] SSLBox.cpp:302 getSSLCtx_l | Server with ssl must have certification and key
+2025-09-30 17:44:24.236 W [MediaServer.exe] [31248-event poller 1] SSLBox.cpp:131 findCertificate | Can not find any certificate of host: github.com, select default certificate of: 
+2025-09-30 17:44:24.236 W [MediaServer.exe] [31248-event poller 1] SSLBox.cpp:302 getSSLCtx_l | Server with ssl must have certification and key
+2025-09-30 17:44:24.238 W [MediaServer.exe] [31248-event poller 1] SSLBox.cpp:131 findCertificate | Can not find any certificate of host: github.com, select default certificate of: 
+2025-09-30 17:44:24.238 W [MediaServer.exe] [31248-event poller 1] SSLBox.cpp:302 getSSLCtx_l | Server with ssl must have certification and key
+2025-09-30 17:50:06.544 W [MediaServer.exe] [31248-stamp thread] util.cpp:413 operator () | Stamp expired is abnormal: 1140703
+2025-09-30 20:50:32.569 I [MediaServer.exe] [3592-21036] main.cpp:271 start_main | ZLMediaKit(git hash:Git_Unkown_commit/Git_Unkown_time,branch:Git_Unkown_branch,build time:2025-03-19T17:04:50)
+2025-09-30 20:50:33.316 W [MediaServer.exe] [3592-21036] SSLUtil.cpp:104 loadPublicKey | BIO_new_file failed: error:80000002:system library::No such file or directory
+2025-09-30 20:50:33.316 W [MediaServer.exe] [3592-21036] SSLUtil.cpp:132 loadPrivateKey | BIO_new_file failed: error:10000080:BIO routines::no such file
+2025-09-30 20:50:33.317 W [MediaServer.exe] [3592-21036] SSLUtil.cpp:213 makeSSLContext | SSL_CTX_check_private_key failed: error:80000002:system library::No such file or directory
+2025-09-30 20:50:33.337 D [MediaServer.exe] [3592-stamp thread] util.cpp:391 operator () | Stamp thread started
+2025-09-30 20:50:33.354 I [MediaServer.exe] [3592-21036] EventPoller.cpp:616 EventPollerPool | EventPoller created size: 12
+2025-09-30 20:50:33.354 I [MediaServer.exe] [3592-21036] main.cpp:396 start_main | 已启动http api 接口
+2025-09-30 20:50:33.354 I [MediaServer.exe] [3592-21036] main.cpp:398 start_main | 已启动http hook 接口
+2025-09-30 20:50:33.356 I [MediaServer.exe] [3592-21036] TcpServer.cpp:242 start_l | TCP server listening on [::]: 554
+2025-09-30 20:50:33.358 I [MediaServer.exe] [3592-21036] TcpServer.cpp:242 start_l | TCP server listening on [::]: 332
+2025-09-30 20:50:33.360 I [MediaServer.exe] [3592-21036] TcpServer.cpp:242 start_l | TCP server listening on [::]: 1935
+2025-09-30 20:50:33.362 I [MediaServer.exe] [3592-21036] TcpServer.cpp:242 start_l | TCP server listening on [::]: 19350
+2025-09-30 20:50:33.363 I [MediaServer.exe] [3592-21036] TcpServer.cpp:242 start_l | TCP server listening on [::]: 80
+2025-09-30 20:50:33.366 I [MediaServer.exe] [3592-21036] TcpServer.cpp:242 start_l | TCP server listening on [::]: 443
+2025-09-30 20:50:33.367 I [MediaServer.exe] [3592-21036] TcpServer.cpp:242 start_l | TCP server listening on [::]: 9000
+2025-09-30 20:50:33.370 I [MediaServer.exe] [3592-21036] UdpServer.cpp:130 start_l | UDP server bind to [::]: 10000
+2025-09-30 20:50:33.372 I [MediaServer.exe] [3592-21036] TcpServer.cpp:242 start_l | TCP server listening on [::]: 10000
+2025-09-30 20:50:33.375 I [MediaServer.exe] [3592-21036] UdpServer.cpp:130 start_l | UDP server bind to [::]: 8000
+2025-09-30 20:50:33.377 I [MediaServer.exe] [3592-21036] TcpServer.cpp:242 start_l | TCP server listening on [::]: 8000
+2025-09-30 20:50:33.379 I [MediaServer.exe] [3592-21036] UdpServer.cpp:130 start_l | UDP server bind to [::]: 9000
+2025-09-30 23:34:34.828 W [MediaServer.exe] [3592-event poller 11] SSLBox.cpp:131 findCertificate | Can not find any certificate of host: api.github.com, select default certificate of: 
+2025-09-30 23:34:34.828 W [MediaServer.exe] [3592-event poller 11] SSLBox.cpp:302 getSSLCtx_l | Server with ssl must have certification and key

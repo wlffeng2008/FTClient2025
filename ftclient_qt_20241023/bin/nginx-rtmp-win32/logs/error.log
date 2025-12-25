@@ -1,0 +1,55 @@
+2025/03/03 00:06:30 [notice] 36476#35744: using the "select" event method
+2025/03/03 00:06:30 [notice] 36476#35744: nginx/1.14.1
+2025/03/03 00:06:30 [info] 36476#35744: OS: 260200 build:9200, "", suite:100, type:1
+2025/03/03 00:06:30 [notice] 36476#35744: start worker processes
+2025/03/03 00:06:30 [notice] 36476#35744: start worker process 34256
+2025/03/03 00:06:30 [notice] 34256#27396: nginx/1.14.1
+2025/03/03 00:06:30 [info] 34256#27396: OS: 260200 build:9200, "", suite:100, type:1
+2025/03/03 00:06:30 [notice] 34256#27396: create thread 37296
+2025/03/03 00:06:30 [notice] 34256#27396: create thread 5616
+2025/03/03 00:06:30 [notice] 34256#27396: create thread 9388
+2025/03/03 00:22:52 [notice] 32484#36736: using the "select" event method
+2025/03/03 00:22:52 [notice] 32484#36736: nginx/1.14.1
+2025/03/03 00:22:52 [info] 32484#36736: OS: 260200 build:9200, "", suite:100, type:1
+2025/03/03 00:22:52 [notice] 32484#36736: start worker processes
+2025/03/03 00:22:52 [notice] 32484#36736: start worker process 17928
+2025/03/03 00:22:52 [notice] 17928#35040: nginx/1.14.1
+2025/03/03 00:22:52 [info] 17928#35040: OS: 260200 build:9200, "", suite:100, type:1
+2025/03/03 00:22:52 [notice] 17928#35040: create thread 34396
+2025/03/03 00:22:52 [notice] 17928#35040: create thread 3640
+2025/03/03 00:22:52 [notice] 17928#35040: create thread 34068
+2025/03/03 00:22:54 [info] 17928#34396: *1 client connected '192.168.2.12'
+2025/03/03 00:22:54 [info] 17928#34396: *1 connect: app='live' args='' flashver='LNX 9,0,124,2' swf_url='' tc_url='rtmp://192.168.2.12:1935/live' page_url='' acodecs=4071 vcodecs=252 object_encoding=0, client: 192.168.2.12, server: 0.0.0.0:1935
+2025/03/03 00:22:54 [info] 17928#34396: *1 createStream, client: 192.168.2.12, server: 0.0.0.0:1935
+2025/03/03 00:22:54 [info] 17928#34396: *1 play: name='6C:60:EB:DD:0F:71' args='' start=-2000 duration=0 reset=0 silent=0, client: 192.168.2.12, server: 0.0.0.0:1935
+2025/03/03 00:23:14 [info] 17928#34396: *1 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 192.168.2.12, server: 0.0.0.0:1935
+2025/03/03 00:23:14 [info] 17928#34396: *1 disconnect, client: 192.168.2.12, server: 0.0.0.0:1935
+2025/03/03 00:23:14 [info] 17928#34396: *1 deleteStream, client: 192.168.2.12, server: 0.0.0.0:1935
+2025/03/03 00:23:19 [info] 17928#34396: *2 client connected '192.168.2.12'
+2025/03/03 00:23:19 [info] 17928#34396: *2 connect: app='live' args='' flashver='LNX 9,0,124,2' swf_url='' tc_url='rtmp://192.168.2.12:1935/live' page_url='' acodecs=4071 vcodecs=252 object_encoding=0, client: 192.168.2.12, server: 0.0.0.0:1935
+2025/03/03 00:23:19 [info] 17928#34396: *2 createStream, client: 192.168.2.12, server: 0.0.0.0:1935
+2025/03/03 00:23:19 [info] 17928#34396: *2 play: name='6C:60:EB:DD:0F:71' args='' start=-2000 duration=0 reset=0 silent=0, client: 192.168.2.12, server: 0.0.0.0:1935
+2025/03/03 00:42:25 [info] 17928#34396: *2 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host), client: 192.168.2.12, server: 0.0.0.0:1935
+2025/03/03 00:42:25 [info] 17928#34396: *2 disconnect, client: 192.168.2.12, server: 0.0.0.0:1935
+2025/03/03 00:42:25 [info] 17928#34396: *2 deleteStream, client: 192.168.2.12, server: 0.0.0.0:1935
+2025/03/03 00:50:42 [notice] 32484#36736: worker process 17928 exited with code 1
+2025/03/03 00:50:42 [notice] 32484#36736: start worker process 11404
+2025/03/03 00:50:42 [notice] 11404#36344: nginx/1.14.1
+2025/03/03 00:50:42 [info] 11404#36344: OS: 260200 build:9200, "", suite:100, type:1
+2025/03/03 00:50:42 [notice] 11404#36344: create thread 37060
+2025/03/03 00:50:42 [notice] 11404#36344: create thread 36484
+2025/03/03 00:50:42 [notice] 11404#36344: create thread 31144
+2025/03/03 00:50:48 [notice] 32484#36736: worker process 11404 exited with code 1
+2025/03/03 00:50:48 [notice] 32484#36736: start worker process 34832
+2025/03/03 00:50:48 [notice] 34832#7368: nginx/1.14.1
+2025/03/03 00:50:48 [info] 34832#7368: OS: 260200 build:9200, "", suite:100, type:1
+2025/03/03 00:50:48 [notice] 34832#7368: create thread 31876
+2025/03/03 00:50:48 [notice] 34832#7368: create thread 31532
+2025/03/03 00:50:48 [notice] 34832#7368: create thread 31800
+2025/03/03 00:50:54 [notice] 32484#36736: worker process 34832 exited with code 1
+2025/03/03 00:50:54 [notice] 32484#36736: start worker process 30492
+2025/03/03 00:50:54 [notice] 30492#30672: nginx/1.14.1
+2025/03/03 00:50:54 [info] 30492#30672: OS: 260200 build:9200, "", suite:100, type:1
+2025/03/03 00:50:54 [notice] 30492#30672: create thread 22312
+2025/03/03 00:50:54 [notice] 30492#30672: create thread 22844
+2025/03/03 00:50:54 [notice] 30492#30672: create thread 35356

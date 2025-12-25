@@ -1,0 +1,56 @@
+{
+    "all_types": [
+        {
+            "config": {
+                "default_var_value_file": "./config/Q8140W.var",
+                "test_cmd_file": "./config/Q8140W.cmd"
+            },
+            "device_type": "Q8140G"
+        },
+        {
+            "config": {
+                "default_var_value_file": "./config/Q8140W.var",
+                "test_cmd_file": "./config/Q8140W.cmd"
+            },
+            "device_type": "Q8140W"
+        },
+        {
+            "config": {
+                "default_var_value_file": "./config/TS201Q.var",
+                "test_cmd_file": "./config/TS201Q.cmd"
+            },
+            "device_type": "TS201Q"
+        },
+        {
+            "config": {
+                "default_var_value_file": "./config/TS201Q.var",
+                "test_cmd_file": "./config/TS201Q.cmd"
+            },
+            "device_type": "z02K"
+        }
+    ],
+    "current_device_com_type": "4G",
+    "current_device_type": "Q8140G",
+    "label_tem_config": {
+        "boxLabelTem": "./template/tem_box.tem",
+        "devLabelTem": "./template/tem_dev.tem",
+        "packLabelTem": "./template/tem_pack.tem"
+    },
+    "net_config": {
+        "LoginPass": "ts123456",
+        "LoginUser": "tanshi",
+        "http_server_ip": "47.106.117.102",
+        "http_server_port": 8008,
+        "mqtt_password": "tanshi987123",
+        "mqtt_server_ip": "47.106.117.102",
+        "mqtt_server_port": 1883,
+        "mqtt_user": "tanshi",
+        "mqtt_work_pos": "",
+        "rtmp_delay_ms": 1,
+        "rtmp_local_enable": true,
+        "rtmp_local_port": 1935,
+        "rtmp_server_ip": "47.106.117.102",
+        "rtmp_server_port": 1953
+    },
+    "work_pos_id": "wt678"
+}

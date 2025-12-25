@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>UI/down-arrow.png</file>
+        <file>UI/check.png</file>
+        <file>UI/BoxChecked.png</file>
+        <file>UI/BoxUncheck.png</file>
+    </qresource>
+</RCC>

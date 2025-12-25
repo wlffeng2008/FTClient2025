@@ -1,0 +1,1 @@
+C:\Qt_6.7\6.7.0\mingw_64\bin\windeployqt6.exe --quick  D:\Work\Projs\FactoryTest\FTClient\FTClient_qt\FTClient\FTClient\Release\FtClient-v1.4.1_2024.10.08\FTClient.exe

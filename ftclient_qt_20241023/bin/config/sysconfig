@@ -1,0 +1,65 @@
+{
+    "all_types": [
+        {
+            "config": {
+                "default_var_value_file": "./config/Z03Y.var",
+                "test_cmd_file": "./config/Z03Y.cmd"
+            },
+            "device_type": "Z01C"
+        },
+        {
+            "config": {
+                "default_var_value_file": "./config/Z03Y.var",
+                "test_cmd_file": "./config/Z03Y.cmd"
+            },
+            "device_type": "Z01Y"
+        },
+        {
+            "config": {
+                "default_var_value_file": "./config/Z03Y.var",
+                "test_cmd_file": "./config/Z02K.cmd"
+            },
+            "device_type": "Z02K"
+        },
+        {
+            "config": {
+                "default_var_value_file": "./config/Z03Y.var",
+                "test_cmd_file": "./config/Z03Y.cmd"
+            },
+            "device_type": "Z03Y"
+        }
+    ],
+    "current_device_com_type": "Z01Y",
+    "current_device_type": "Z01C",
+    "label_tem_config": {
+        "boxLabelTem": "./template/tem_box.tem",
+        "boxprintcol": 1,
+        "boxprintrow": 1,
+        "devLabelTem": "./template/tem_dev.tem",
+        "devprintcol": 2,
+        "devprintrow": 2,
+        "packLabelTem": "./template/tem_pack.tem",
+        "packprintcol": 1,
+        "packprintrow": 1
+    },
+    "net_config": {
+        "http_server_ip": "120.79.120.31",
+        "http_server_port": 3737,
+        "mqtt_password": "hy302302",
+        "mqtt_server_ip": "120.79.120.31",
+        "mqtt_server_port": 1883,
+        "mqtt_user": "hy",
+        "mqtt_work_pos": "",
+        "rtmp_delay_ms": 1,
+        "rtmp_local_enable": false,
+        "rtmp_local_port": 1935,
+        "rtmp_server_ip": "120.79.120.31",
+        "rtmp_server_port": 1953,
+        "rtsp_enable": true,
+        "tcp_login_factory_name": "factory_name",
+        "tcp_login_user_name": "user_name",
+        "tcp_server_ip": "120.79.120.31",
+        "tcp_server_port": 3736
+    },
+    "work_pos_id": "wt680"
+}

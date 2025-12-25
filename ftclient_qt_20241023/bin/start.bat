@@ -1,0 +1,1 @@
+start D:/MyWork/HL/ftclient_qt_20241023/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Release/Release/nginx-rtmp-win32/nginx.exe
