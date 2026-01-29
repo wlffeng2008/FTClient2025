@@ -1,1 +1,0 @@
-iperf-2.2.n-win64.exe -s -i 1  -p 5002
