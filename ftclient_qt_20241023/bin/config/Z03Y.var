@@ -1,0 +1,5 @@
+#所属组名, 变量名，变量值，变量类型(int/string/float),变量说明
+g1,status_led_switch, 1, int, 状态灯开关
+g1,image_flip_switch, 0, int, 图像反转开关
+g1,human_filt_switch, 1, int, 人形过滤开关
+g1,move_trace_switch, 1, int, 移动追踪开关

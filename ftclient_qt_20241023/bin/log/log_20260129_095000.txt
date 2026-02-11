@@ -1,0 +1,22 @@
+[[2026-01-29 09:50:00.476]] WARNING: Failed to create QBluetoothLocalDevice - no adapter found
+[[2026-01-29 09:50:00.477]] DEBUG: 蓝牙适配器未找到
+[[2026-01-29 09:50:00.520]] WARNING: Removing client for an unknown adapter id ""
+[[2026-01-29 09:50:00.521]] WARNING: Failed to create QBluetoothLocalDevice - no adapter found
+[[2026-01-29 09:50:00.521]] WARNING: Cannot find Bluetooth adapter for device search
+[[2026-01-29 09:50:00.521]] WARNING: Removing client for an unknown adapter id ""
+[[2026-01-29 09:50:00.534]] DEBUG: "产测工具客户端 - V4.7 (Build: Thu Dec 25 20:01:14 2025) - by QT6.8.0"
+[[2026-01-29 09:50:00.564]] DEBUG: setCurDeviceType "Z01C"
+[[2026-01-29 09:50:02.601]] DEBUG: updateDevType: "Z01C"
+[[2026-01-29 09:50:03.031]] DEBUG: Mqtt Login OK!
+[[2026-01-29 09:50:03.032]] DEBUG: 接收通道:/z01c/wt680/device
+[[2026-01-29 09:50:03.032]] DEBUG: 发送通道:/z01c/wt680/tool
+[[2026-01-29 09:50:03.032]] DEBUG: on_pbtn_inquire_devices_clicked..
+[[2026-01-29 09:50:07.702]] DEBUG: starting video... "rtmp://liteavapp.qcloud.com/live/liteavdemoplayerstreamid"
+[[2026-01-29 09:50:07.712]] WARNING: No QtMultimedia backends found. Only QMediaDevices, QAudioDevice, QSoundEffect, QAudioSink, and QAudioSource are available.
+[[2026-01-29 09:50:09.712]] DEBUG: avformat_network_init finished
+[[2026-01-29 09:50:09.712]] DEBUG: 开始连接视频: rtmp://liteavapp.qcloud.com/live/liteavdemoplayerstreamid
+[[2026-01-29 09:50:09.867]] DEBUG: Video stream found:  1 27
+[[2026-01-29 09:50:09.868]] DEBUG: Audio stream found:  0 15002 48000 2
+[[2026-01-29 09:50:09.868]] DEBUG: 已成功连接视频: rtmp://liteavapp.qcloud.com/live/liteavdemoplayerstreamid
+[[2026-01-29 09:50:20.011]] DEBUG: stopping video...
+[[2026-01-29 09:50:20.014]] DEBUG: avformat_free_context finished..............
